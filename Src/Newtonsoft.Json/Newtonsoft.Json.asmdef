@@ -8,5 +8,36 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [
+        {
+            "name": "com.newtonsoft.json",
+            "expression": "",
+            "define": "NETSTANDARD2_0"
+        },
+        {
+            "name": "com.newtonsoft.json",
+            "expression": "",
+            "define": "HAVE_LINQ"
+        },
+        {
+            "name": "com.newtonsoft.json",
+            "expression": "",
+            "define": "HAVE_BIG_INTEGER"
+        },
+        {
+            "name": "com.newtonsoft.json",
+            "expression": "",
+            "define": "HAVE_XLINQ"
+        },
+        {
+            "name": "com.newtonsoft.json",
+            "expression": "",
+            "define": "HAVE_TIME_ZONE_INFO"
+        },
+        {
+            "name": "com.newtonsoft.json",
+            "expression": "",
+            "define": "HAVE_SERIALIZATION_BINDER_BIND_TO_NAME"
+        }
+    ]
 }
